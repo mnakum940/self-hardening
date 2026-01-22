@@ -1,4 +1,0 @@
-numpy
-ollama
-colorama
-streamlit
